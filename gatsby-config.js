@@ -2,7 +2,7 @@
  * @Author: yanxu gong
  * @Date: 2020-12-31 14:01:12
  * @LastEditors: yanxu gong
- * @LastEditTime: 2020-12-31 14:37:40
+ * @LastEditTime: 2020-12-31 14:40:25
  * @Description:
  */
 module.exports = {
@@ -67,12 +67,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `GatsbyJS`,
         short_name: `GatsbyJS`,
         start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
-        display: `minimal-ui`,
+        background_color: `#f7f0eb`,
+        theme_color: `#a2466c`,
+        display: `standalone`,
       },
     },
     `gatsby-plugin-react-helmet`,
