@@ -1,14 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `龚彦旭的博客`,
+    description: `Reatc / 小程序 / Vue`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
-    },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
-    social: {
-      twitter: `kylemathews`,
+      name: `龚彦旭`,
+      summary: `前端开发 / 健身 / 动漫 / 文字创作`,
     },
   },
   plugins: [
@@ -60,7 +56,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `龚彦旭的博客`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
