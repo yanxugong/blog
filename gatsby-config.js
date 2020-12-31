@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `龚彦旭的博客`,
+    title: `Liam's Blog`,
     description: `Reatc / 小程序 / Vue`,
     author: {
-      name: `龚彦旭`,
+      name: `Liam`,
       summary: `前端开发 / 健身 / 动漫 / 文字创作`,
     },
   },
@@ -56,13 +56,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `龚彦旭的博客`,
+        name: `Liam's Blog`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,
+        include_favicon: false,
       },
     },
     `gatsby-plugin-react-helmet`,
