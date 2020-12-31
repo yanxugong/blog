@@ -1,3 +1,10 @@
+/*
+ * @Author: yanxu gong
+ * @Date: 2020-12-31 14:01:12
+ * @LastEditors: yanxu gong
+ * @LastEditTime: 2020-12-31 14:37:40
+ * @Description:
+ */
 module.exports = {
   siteMetadata: {
     title: `Gatsby Starter Blog`,
@@ -66,7 +73,6 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
