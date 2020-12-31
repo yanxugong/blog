@@ -35,7 +35,7 @@
     "gh-pages": "^3.1.0",
     "prettier": "2.2.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/yanxugong/blog#readme",
   "keywords": [
     "gatsby"
   ],
@@ -43,7 +43,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/yanxugong/blog.git"
   },
   "scripts": {
     "deploy": "gatsby build && gh-pages -d public -r https://$GH_TOKEN@github.com/yanxugong/blog.git",
