@@ -1,10 +1,3 @@
-/*
- * @Author: yanxu gong
- * @Date: 2020-12-31 14:01:12
- * @LastEditors: yanxu gong
- * @LastEditTime: 2020-12-31 14:40:25
- * @Description:
- */
 module.exports = {
   siteMetadata: {
     title: `Gatsby Starter Blog`,
@@ -67,12 +60,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `GatsbyJS`,
+        name: `Gatsby Starter Blog`,
         short_name: `GatsbyJS`,
         start_url: `/`,
-        background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
-        display: `standalone`,
+        background_color: `#ffffff`,
+        theme_color: `#663399`,
+        display: `minimal-ui`,
+        icon: `content/assets/gatsby-icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
