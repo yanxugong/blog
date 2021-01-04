@@ -8,7 +8,12 @@
       <Content slot-key="diagram" v-show="isOpen" />
     </transition>
     <div class="diagram-controller">
-      <Switches v-model="isOpen" theme="custom" color="default" type-bold="true" />
+      <Switches
+        v-model="isOpen"
+        theme="custom"
+        color="default"
+        type-bold="true"
+      />
     </div>
     <Post />
   </div>
@@ -23,7 +28,7 @@ export default {
     return {
       isOpen: false,
       contentWrapper: null,
-      toc: null
+      toc: null,
     };
   },
   components: { Post, Switches },
@@ -45,8 +50,8 @@ export default {
     beforeLeave: function(el) {
       this.contentWrapper.classList.remove("enter");
       this.toc.style.display = "";
-    }
-  }
+    },
+  },
 };
 </script>
 

@@ -1,11 +1,11 @@
 {
-  "name": "billy-chin",
+  "name": "vuepress-site",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "authors": {
-    "name": "Billyyyyy3320",
-    "email": "newsbielt703@gmail.com"
+    "name": "Yanxu Gong",
+    "email": "745710524@qq.com"
   },
   "scripts": {
     "dev": "vuepress dev blog --open --no-clear-screen",
