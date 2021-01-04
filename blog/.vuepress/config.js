@@ -2,7 +2,7 @@
  * @Author: yanxu gong
  * @Date: 2020-12-31 18:32:00
  * @LastEditors: yanxu gong
- * @LastEditTime: 2021-01-04 14:30:14
+ * @LastEditTime: 2021-01-04 15:11:20
  * @Description:
  */
 
@@ -12,7 +12,7 @@ module.exports = (options, context, api) => {
     title: "Yanxu Gong",
     description: "Web development, Frontend, JavaScript",
     theme: "@vuepress/blog",
-    base: "blog",
+    base: "/blog/",
     plugins: [
       [
         "@vuepress/google-analytics",
