@@ -6,6 +6,8 @@
 
 基于 Github Action + Vuepress 的个人博客。
 
+</div>
+
 ## 使用
 
 ```bash

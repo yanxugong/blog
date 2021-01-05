@@ -6,6 +6,8 @@ English | [简体中文](./README.zh-CN.md)
 
 Personal blog based on Github Action + Vuepress.
 
+</div>
+
 ## Usage
 
 ```bash
