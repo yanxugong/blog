@@ -11,5 +11,8 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@vuepress/theme-vue": "^1.8.2"
   }
 }
