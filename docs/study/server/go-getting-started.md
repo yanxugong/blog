@@ -1,3 +1,5 @@
+# Go 快速入门指南
+
 ## 前言
 
 Go（又称 Golang）是 [Google](https://baike.baidu.com/item/Google/86964) 的 Robert Griesemer，Rob Pike 及 Ken Thompson 开发的一种静态强类型、编译型语言。Go 语言语法与 [C](https://baike.baidu.com/item/c%E8%AF%AD%E8%A8%80/105958?fromtitle=c&fromid=7252092) 相近，但功能上有：内存安全，垃圾回收，结构形态及 [CSP-style](https://baike.baidu.com/item/CSP/9076083?fr=aladdin) 并发计算。

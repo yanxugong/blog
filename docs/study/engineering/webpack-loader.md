@@ -1,9 +1,4 @@
----
-# 主题列表：juejin, github, smartblue, cyanosis, channing-cyan, fancy, hydrogen, condensed-night-purple, greenwillow, v-green, vue-pro, healer-readable, mk-cute, jzman, geek-black, awesome-green
-# 贡献主题：https://github.com/xitu/juejin-markdown-themes
-theme: vue-pro
-highlight: vs2015
----
+# 「webpack 核心特性」loader
 
 ## 一、前言
 
