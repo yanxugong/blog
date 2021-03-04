@@ -1,3 +1,11 @@
+<!--
+ * @Author: yanxu gong
+ * @Date: 2021-03-02 09:37:51
+ * @LastEditors: yanxu gong
+ * @LastEditTime: 2021-03-04 19:57:12
+ * @Description:
+-->
+
 前端学习记录 📝。
 
 ## 目录
@@ -6,6 +14,11 @@
 
 - [你不知道的 JavaScript（中卷）](/blog/study/js-basis/you-do-not-konw-js)
 - [你不知道的 JavaScript（下卷）](/blog/study/js-basis/you-do-not-konw-js-down)
+- [「重学 JavaScript」变量和类型](/blog/study/js-basis/variables-and-types)
+- [「重学 JavaScript」原型和原型链](/blog/study/js-basis/prototype-and-prototype-chain)
+- [「重学 JavaScript」作用域和闭包](/blog/study/js-basis/scope-and-closure)
+- [「重学 JavaScript」执行机制](/blog/study/js-basis/implementation-mechanism)
+- [「重学 JavaScript」语法和 API](/blog/study/js-basis/syntax-and-api)
 
 ### 2. CSS 基础
 

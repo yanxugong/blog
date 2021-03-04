@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-01-11 21:03:00
- * @LastEditTime: 2021-02-28 22:29:20
+ * @LastEditTime: 2021-03-04 20:01:43
  * @LastEditors: yanxu gong
  * @Description: 配置文件的入口
  * @FilePath: \blog\docs\.vuepress\config.js
@@ -43,6 +43,11 @@ function getStudySidebar(title) {
       children: [
         "js-basis/you-do-not-konw-js",
         "js-basis/you-do-not-konw-js-down",
+        "js-basis/variables-and-types",
+        "js-basis/prototype-and-prototype-chain",
+        "js-basis/scope-and-closure",
+        "js-basis/implementation-mechanism",
+        "js-basis/syntax-and-api",
         "frame/deep-react-one",
         "frame/deep-react-two",
         "network/from-url-to-page-render",
