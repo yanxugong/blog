@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-01-11 21:03:00
- * @LastEditTime: 2021-03-04 20:01:43
+ * @LastEditTime: 2021-03-04 20:17:24
  * @LastEditors: yanxu gong
  * @Description: 配置文件的入口
  * @FilePath: \blog\docs\.vuepress\config.js
@@ -33,6 +33,21 @@ module.exports = {
     editLinks: true,
     editLinkText: "在 GitHub 上编辑此页",
   },
+  plugins: [
+    [
+      "vuepress-plugin-comment",
+      {
+        choosen: "valine",
+        // options选项中的所有参数，会传给Valine的配置
+        options: {
+          el: "#valine-vuepress-comment",
+          appId: "YnxJNMMn7NNvJAsb3sm3W9zt-gzGzoHsz",
+          appKey: "pcRqPx83lkAK7Kt0kIiujKJY",
+          placeholder: "请输入...",
+        },
+      },
+    ],
+  ],
 };
 
 function getStudySidebar(title) {
