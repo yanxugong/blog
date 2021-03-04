@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-01-11 21:03:00
- * @LastEditTime: 2021-03-04 20:17:24
+ * @LastEditTime: 2021-03-04 21:10:23
  * @LastEditors: yanxu gong
  * @Description: 配置文件的入口
  * @FilePath: \blog\docs\.vuepress\config.js
@@ -47,6 +47,7 @@ module.exports = {
         },
       },
     ],
+    ["@vuepress/back-to-top"],
   ],
 };
 
