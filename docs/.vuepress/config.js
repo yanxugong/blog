@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-01-11 21:03:00
- * @LastEditTime: 2021-03-04 21:10:23
+ * @LastEditTime: 2021-04-15 22:33:35
  * @LastEditors: yanxu gong
  * @Description: 配置文件的入口
  * @FilePath: \blog\docs\.vuepress\config.js
@@ -57,6 +57,7 @@ function getStudySidebar(title) {
       title,
       collapsable: false,
       children: [
+        // JavaScript 基础
         "js-basis/you-do-not-konw-js",
         "js-basis/you-do-not-konw-js-down",
         "js-basis/variables-and-types",
@@ -64,13 +65,32 @@ function getStudySidebar(title) {
         "js-basis/scope-and-closure",
         "js-basis/implementation-mechanism",
         "js-basis/syntax-and-api",
+
+        // CSS 基础
+
+        // 框架
         "frame/deep-react-one",
         "frame/deep-react-two",
+
+        // 网络
         "network/from-url-to-page-render",
+
+        // 数据结构与算法
+        "algorithm/linked-list",
+
+        // 安全
+
+        // 性能优化
+        "performance-optimization/first-screen",
+
+        // 工程化
+        "engineering/vite",
         "engineering/webpack-loader",
         "engineering/webpack-plugin",
         "engineering/webpack-main",
         "engineering/webpack-hmr",
+
+        // 服务端
         "server/go-getting-started",
       ],
     },

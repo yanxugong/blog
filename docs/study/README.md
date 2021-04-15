@@ -2,7 +2,7 @@
  * @Author: yanxu gong
  * @Date: 2021-03-02 09:37:51
  * @LastEditors: yanxu gong
- * @LastEditTime: 2021-03-04 19:57:12
+ * @LastEditTime: 2021-04-15 22:20:22
  * @Description:
 -->
 
@@ -33,12 +33,17 @@
 
 ### 5. 数据结构与算法
 
+- [「重学算法」快速掌握链表题](/blog/study/algorithm/linked-list)
+
 ### 6. 安全
 
 ### 7. 性能优化
 
+- [「性能优化」首屏时间指标到底如何采集？](/blog/study/performance-optimization/first-screen)
+
 ### 8. 工程化
 
+- [「工程化」如何看待构建工具 Vite？](/blog/study/engineering/vite)
 - [「webpack 核心特性」loader](/blog/study/engineering/webpack-loader)
 - [「webpack 核心特性」插件(plugin)](/blog/study/engineering/webpack-plugin)
 - [「webpack 核心特性」工作原理](/blog/study/engineering/webpack-main)
