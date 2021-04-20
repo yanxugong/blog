@@ -1,22 +1,16 @@
 English | [简体中文](./README.zh-CN.md)
 
 <p align="center">
-  <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">
+  <a href="https://yanxugong.github.io/blog/" target="_blank" rel="noopener noreferrer">
     <img width="180" src="https://yanxugong.gitee.io/blog/img/bg.jpg" alt="blog logo">
   </a>
 </p>
 
-<h1 align="center">Yanxu Gong's Blog</h1>
+# Yanxu Gong's Blog 🏳️‍🌈
 
-<div align="center">
+> Personal blog based on Github Action + Vuepress.
 
-Personal blog based on Github Action + Vuepress.
+- 📗 Study
+- 🤳 Photography
+- ❤ Emotion
 
-</div>
-
-## Usage
-
-```bash
-$ yarn
-$ yarn dev         # visit http://localhost:8000
-```
