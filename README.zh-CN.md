@@ -1,16 +1,15 @@
 [English](./README.md) | 简体中文
 
-<h1 align="center">龚彦旭的博客</h1>
+<p align="center">
+  <a href="https://yanxugong.github.io/blog/" target="_blank" rel="noopener noreferrer">
+    <img width="180" src="https://yanxugong.gitee.io/blog/img/bg.jpg" alt="blog logo">
+  </a>
+</p>
 
-<div align="center">
+# 龚彦旭的博客 🏳️‍🌈
 
-基于 Github Action + Vuepress 的个人博客。
+> 基于 Github Action + Vuepress 的个人博客。
 
-</div>
-
-## 使用
-
-```bash
-$ yarn
-$ yarn dev         # visit http://localhost:8000
-```
+- 📗 学习
+- 🤳 摄影
+- ❤ 情感
